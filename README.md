@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**7** solved · 7 problems · 0 labs · 0 math
+**8** solved · 8 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [L2 Normalization Along an Axis](https://www.deep-ml.com/problems/1022) | easy | 2026-11-14 | [solution](problems/1022-l2-normalization-along-an-axis) |
 | [Pairwise Cosine Similarity Matrix](https://www.deep-ml.com/problems/1072) | easy | 2026-11-15 | [solution](problems/1072-pairwise-cosine-similarity-matrix) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-11-18 | [solution](problems/0003-reshape-matrix) |
+| [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-11-22 | [solution](problems/0329-matrix-rank) |
 
 ---
 
